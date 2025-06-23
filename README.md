@@ -217,7 +217,7 @@ Microcontroller-based Bluetooth scanning system with real-time web interface and
   
   📧 **Email:** kaanyildizhouse@hotmail.com
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-yildiz-b79849252)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-oruc-yildiz)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mc_oruc)
   
 </div>
