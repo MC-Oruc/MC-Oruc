@@ -55,6 +55,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 ### SpeechGen
 
+---
+
 &emsp;Offline **Kokoro-82M** speech synthesis for Unreal Engine.
 
 <details>
@@ -80,6 +82,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 ### TextGen
 
+---
+
 &emsp;Streaming LLM inference for Unreal Engine, with verified on-demand **CUDA and Vulkan** backends.
 
 <details>
@@ -96,6 +100,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 </details>
 
 ### DeepLevelDesignPCG
+
+---
 
 &emsp;An editor-side PCG toolkit for deterministic **city, road, building, and decoration generation** in Unreal Engine 5.8.
 
@@ -114,6 +120,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 ### UE-LevelInstanceDeepCopy
 
+---
+
 &emsp;Creates isolated Level Instance copies with their project assets and references.
 
 <details>
@@ -128,6 +136,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 </details>
 
 ### ProcessRuntime
+
+---
 
 &emsp;Launches and manages external processes from Unreal Engine, with inter-process communication support.
 
@@ -144,6 +154,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 ### TextureGeneration
 
+---
+
 &emsp;Deterministic texture generation and import workflows for Unreal Editor.
 
 <details>
@@ -158,6 +170,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 </details>
 
 ### BackupFileBrowser
+
+---
 
 &emsp;Browse and restore project-asset backups without leaving Unreal Editor.
 
@@ -177,6 +191,8 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 &emsp;Independent work across **speech animation, embedded security testing, developer tools, AI, and desktop software**.
 
 ### Duskfall
+
+---
 
 &emsp;**Feature Showcase · Development discontinued**
 
@@ -250,6 +266,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 ### VocaRig
 
+---
+
 &emsp;Streaming speech-to-face animation, mapping **21 audio-driven channels to 52 ARKit blendshape outputs**.
 
 <details>
@@ -264,6 +282,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 </details>
 
 ### FaceRig
+
+---
 
 &emsp;Predicts 3D facial-rig weights from continuous emotion parameters.
 
@@ -280,6 +300,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 ### K4MPUS_R00TK1T
 
+---
+
 &emsp;Raspberry Pi Pico W / ESP32 tool for authorized Bluetooth beacon-filtering and Company ID tests.
 
 <details>
@@ -294,6 +316,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 </details>
 
 ### UE 5.7 MCP PortKit
+
+---
 
 &emsp;Backports Unreal Engine 5.8 MCP tools and Atomic Material Graph workflows to UE 5.7.
 
@@ -310,6 +334,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 ### Chimera
 
+---
+
 &emsp;Full-stack AI chat and image-generation workspace built with Next.js and Go.
 
 <details>
@@ -324,6 +350,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 </details>
 
 ### MessageHub
+
+---
 
 &emsp;Qt/PySide6 interface demo with **eight themes**, animated transitions, and custom widgets.
 
@@ -340,6 +368,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 ### People Counter
 
+---
+
 &emsp;Real-time people counting from camera, video, or RTSP streams with **YOLO and YuNet**.
 
 <details>
@@ -354,6 +384,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 </details>
 
 ### File Organizer Tool
+
+---
 
 &emsp;Cross-platform file organization with GUI, CLI, preview, undo, and **ten languages**.
 
