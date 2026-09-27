@@ -53,9 +53,7 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 &emsp;Plugins for **AI inference, speech, facial animation, procedural level design, and editor workflows**.
 
-### SpeechGen
-
----
+### SpeechGen<br><sub>─────────</sub>
 
 &emsp;Offline **Kokoro-82M** speech synthesis for Unreal Engine.
 
@@ -80,9 +78,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### TextGen
-
 ---
+
+### TextGen<br><sub>───────</sub>
 
 &emsp;Streaming LLM inference for Unreal Engine, with verified on-demand **CUDA and Vulkan** backends.
 
@@ -99,9 +97,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### DeepLevelDesignPCG
-
 ---
+
+### DeepLevelDesignPCG<br><sub>──────────────────</sub>
 
 &emsp;An editor-side PCG toolkit for deterministic **city, road, building, and decoration generation** in Unreal Engine 5.8.
 
@@ -118,9 +116,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### UE-LevelInstanceDeepCopy
-
 ---
+
+### UE-LevelInstanceDeepCopy<br><sub>────────────────────────</sub>
 
 &emsp;Creates isolated Level Instance copies with their project assets and references.
 
@@ -135,9 +133,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### ProcessRuntime
-
 ---
+
+### ProcessRuntime<br><sub>──────────────</sub>
 
 &emsp;Launches and manages external processes from Unreal Engine, with inter-process communication support.
 
@@ -152,9 +150,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### TextureGeneration
-
 ---
+
+### TextureGeneration<br><sub>─────────────────</sub>
 
 &emsp;Deterministic texture generation and import workflows for Unreal Editor.
 
@@ -169,9 +167,9 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 </details>
 
-### BackupFileBrowser
-
 ---
+
+### BackupFileBrowser<br><sub>─────────────────</sub>
 
 &emsp;Browse and restore project-asset backups without leaving Unreal Editor.
 
@@ -190,9 +188,7 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 &emsp;Independent work across **speech animation, embedded security testing, developer tools, AI, and desktop software**.
 
-### Duskfall
-
----
+### Duskfall<br><sub>────────</sub>
 
 &emsp;**Feature Showcase · Development discontinued**
 
@@ -264,9 +260,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### VocaRig
-
 ---
+
+### VocaRig<br><sub>───────</sub>
 
 &emsp;Streaming speech-to-face animation, mapping **21 audio-driven channels to 52 ARKit blendshape outputs**.
 
@@ -281,9 +277,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### FaceRig
-
 ---
+
+### FaceRig<br><sub>───────</sub>
 
 &emsp;Predicts 3D facial-rig weights from continuous emotion parameters.
 
@@ -298,9 +294,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### K4MPUS_R00TK1T
-
 ---
+
+### K4MPUS_R00TK1T<br><sub>──────────────</sub>
 
 &emsp;Raspberry Pi Pico W / ESP32 tool for authorized Bluetooth beacon-filtering and Company ID tests.
 
@@ -315,9 +311,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### UE 5.7 MCP PortKit
-
 ---
+
+### UE 5.7 MCP PortKit<br><sub>──────────────────</sub>
 
 &emsp;Backports Unreal Engine 5.8 MCP tools and Atomic Material Graph workflows to UE 5.7.
 
@@ -332,9 +328,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### Chimera
-
 ---
+
+### Chimera<br><sub>───────</sub>
 
 &emsp;Full-stack AI chat and image-generation workspace built with Next.js and Go.
 
@@ -349,9 +345,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### MessageHub
-
 ---
+
+### MessageHub<br><sub>──────────</sub>
 
 &emsp;Qt/PySide6 interface demo with **eight themes**, animated transitions, and custom widgets.
 
@@ -366,9 +362,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### People Counter
-
 ---
+
+### People Counter<br><sub>──────────────</sub>
 
 &emsp;Real-time people counting from camera, video, or RTSP streams with **YOLO and YuNet**.
 
@@ -383,9 +379,9 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 
 </details>
 
-### File Organizer Tool
-
 ---
+
+### File Organizer Tool<br><sub>───────────────────</sub>
 
 &emsp;Cross-platform file organization with GUI, CLI, preview, undo, and **ten languages**.
 
@@ -399,6 +395,8 @@ https://github.com/user-attachments/assets/eee3a327-ac33-48d9-aab2-ba5abd0166f1
 &emsp;[Repository](https://github.com/MC-Oruc/File-Organizer-Tool)
 
 </details>
+
+---
 
 <p align="center">
   More project demos and implementation notes: <a href="https://kaanyildiz.com">kaanyildiz.com</a>
