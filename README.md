@@ -9,10 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/brand/skills/unreal-engine.svg" alt="Unreal Engine" height="24" /> &nbsp;·&nbsp;
-  <img src="assets/brand/skills/real-time-ai.svg" alt="Real-time AI" height="24" /> &nbsp;·&nbsp;
-  <img src="assets/brand/skills/cplusplus.svg" alt="C++" height="24" /> &nbsp;·&nbsp;
-  <img src="assets/brand/skills/python.svg" alt="Python" height="24" /> &nbsp;·&nbsp;
+  <img src="assets/brand/skills/unreal-engine.svg" alt="Unreal Engine" height="24" />
+  <img src="assets/brand/skills/separator.svg" alt="" width="6" height="24" />
+  <img src="assets/brand/skills/real-time-ai.svg" alt="Real-time AI" height="24" />
+  <img src="assets/brand/skills/separator.svg" alt="" width="6" height="24" />
+  <img src="assets/brand/skills/cplusplus.svg" alt="C++" height="24" />
+  <img src="assets/brand/skills/separator.svg" alt="" width="6" height="24" />
+  <img src="assets/brand/skills/python.svg" alt="Python" height="24" />
+  <img src="assets/brand/skills/separator.svg" alt="" width="6" height="24" />
   <img src="assets/brand/skills/developer-design-tools.svg" alt="Developer and Design Tools" height="24" />
 </p>
 
