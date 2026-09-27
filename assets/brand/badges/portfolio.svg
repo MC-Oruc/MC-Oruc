@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" viewBox="0 0 112 28" role="img" aria-labelledby="title">
+  <title id="title">Portfolio</title>
+  <rect x=".5" y=".5" width="111" height="27" rx="6" fill="#101923" fill-opacity=".16" stroke="#35c8f4" stroke-opacity=".42"/>
+  <style>
+    .brand-glyph { fill: #09090b; }
+    @media (prefers-color-scheme: dark) { .brand-glyph { fill: #f4f4f5; } }
+  </style>
+  <g class="brand-glyph" transform="translate(7 3) scale(.043)">
+    <path d="M 39.46 170.17 Q 32.00 164.00 39.46 157.83 L 133.78 79.83 Q 136.00 78.00 138.88 78.00 L 168.77 78.00 Q 191.00 78.00 173.87 92.17 L 94.46 157.83 Q 87.00 164.00 94.46 170.17 L 173.87 235.83 Q 191.00 250.00 168.77 250.00 L 138.88 250.00 Q 136.00 250.00 133.78 248.17 Z"/>
+    <path d="M 248.00 150.00 Q 248.00 142.00 256.00 142.00 L 364.00 142.00 Q 372.00 142.00 372.00 150.00 L 372.00 178.00 Q 372.00 186.00 364.00 186.00 L 256.00 186.00 Q 248.00 186.00 248.00 178.00 Z"/>
+    <path d="M 152.00 334.00 Q 152.00 326.00 160.00 326.00 L 268.00 326.00 Q 276.00 326.00 276.00 334.00 L 276.00 362.00 Q 276.00 370.00 268.00 370.00 L 160.00 370.00 Q 152.00 370.00 152.00 362.00 Z"/>
+    <path d="M 353.69 269.11 Q 349.00 258.00 361.06 258.00 L 398.69 258.00 Q 404.00 258.00 406.06 262.89 L 475.31 426.89 Q 480.00 438.00 467.94 438.00 L 430.31 438.00 Q 425.00 438.00 422.94 433.11 Z"/>
+  </g>
+  <text x="34" y="18" fill="#dce6ef" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600">PORTFOLIO</text>
+</svg>
