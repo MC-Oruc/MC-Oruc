@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/brand/skills/unreal-engine.svg" alt="Unreal Engine" height="24" />
-  <img src="assets/brand/skills/real-time-ai.svg" alt="Real-time AI" height="24" />
-  <img src="assets/brand/skills/cplusplus.svg" alt="C++" height="24" />
-  <img src="assets/brand/skills/python.svg" alt="Python" height="24" />
+  <img src="assets/brand/skills/unreal-engine.svg" alt="Unreal Engine" height="24" /> &nbsp;·&nbsp;
+  <img src="assets/brand/skills/real-time-ai.svg" alt="Real-time AI" height="24" /> &nbsp;·&nbsp;
+  <img src="assets/brand/skills/cplusplus.svg" alt="C++" height="24" /> &nbsp;·&nbsp;
+  <img src="assets/brand/skills/python.svg" alt="Python" height="24" /> &nbsp;·&nbsp;
   <img src="assets/brand/skills/developer-design-tools.svg" alt="Developer and Design Tools" height="24" />
 </p>
 
@@ -25,11 +25,11 @@
 
 &emsp;**Independent neo-noir detective game · Unreal Engine 5.8**
 
-### Gameplay
+### SoC Gameplay
 
 https://github.com/user-attachments/assets/e6237140-f0b1-4940-9076-d923e491d24e
 
-### AI NPC Dialogue
+### SoC AI NPC Dialogue
 
 https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/f5dafd03-0d47-40ee-8ee5-95e3a186d4e0
 
 ### Development Status
 
-- **Completed:** Real-time AI dialogue pipeline.
+- **Completed:** Real-time AI dialogue pipeline; weapon and punch combat; narrative and quest systems; vehicle gameplay; investigation systems for LLM-driven NPC interactions and camera workflows; and UI design.
 - **In progress:** World placement and scenario implementation.
 - **Steam:** App ID setup is complete. The Steam page and wishlist are planned for the vertical slice.
 
